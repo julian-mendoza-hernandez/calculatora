@@ -1,0 +1,18 @@
+.app {
+  text-align: center;
+}
+
+table {
+  width: 400px;
+  margin: auto
+}
+
+td {
+  text-align: center;
+  width: 100px;
+}
+
+button {
+    margin-top: 5px;
+    box-shadow: 5px 5px #888888;
+}
